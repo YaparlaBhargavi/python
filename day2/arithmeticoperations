@@ -1,0 +1,14 @@
+print(10+3)  #addition
+print(10-3)  #substraction
+print(10*3)  #multiplication
+print(10/3)  #division
+print(10%3)  #modulos
+print(10//3) #floor division
+print(10**3) #power
+
+# agumented assignment operator
+x=10
+x=x+3 # x+=3 # x-=3  # x*=3
+print(x)
+
+
