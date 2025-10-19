@@ -1,0 +1,5 @@
+temp=90
+if temp >30: # > , >= , < , <= , == , != 
+    print("it's a hot day")
+else:
+    print("it's not a hot day")
