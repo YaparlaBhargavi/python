@@ -1,0 +1,10 @@
+names=['john','bob','mosh','sarah','mothi']
+print(names)
+print(names[2])
+print(names[-2])
+print(names[2:])
+print(names[2:4])
+print(names[:])
+#update
+names[0]='joe'
+print(names)
